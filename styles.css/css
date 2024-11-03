@@ -14,112 +14,55 @@ body {
   color: #4d5ae5;
 }
 
-.nav-list {
-  list-style-type: none;
+.studio-text {
+  color: #2e2f42;
 }
-
-.nav-list li {
-  display: inline;
-  margin-right: 15px;
-}
-
-.nav-list a {
+.head-list {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.02em
   color: #2e2f42;
-}
-
-.nav-list a:hover,
-.nav-list a:focus {
-  color: #404bbf;
 }
 
 .contact-info {
-  font-style: normal;
-}
-
-.contact-list {
-  list-style-type: none;
-}
-
-.contact-list a {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.contact-list a:hover,
-.contact-list a:focus {
-  color: #404bbf;
+    font-style: normal;
 }
 
 .main-section {
-  text-align: center;
-  padding: 50px 0;
+    background-color:#2e2f42
 }
-
-.second-section {
-  padding: 50px 20px;
-}
-
-.section-title {
-  font-size: 36px;
-  line-height: 1.11;
+.main-h {
+  font-size: 56px;
+  line-height: 1.07
   text-align: center;
   letter-spacing: 0.02em;
-  text-transform: capitalize;
-  color: #2e2f42;
+  color: #ffffff;
 }
-
-.background-section {
-  background-color: #f4f4fd;
+.main-button {
+    background-color: #4D5AE5
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5; 
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
 }
-
-.list-item {
-  background-color: #ffffff;
-  margin: 20px 0;
-  padding: 20px;
-  border-radius: 5px;
+.main-button:hover,
+.main-button:focus: {
+background-color: #404BBF;
 }
-
-.list-heading {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
+.second-h {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42
 }
-
-.list-paragraph {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-footer {
-  text-align: center;
-  padding: 20px;
-}
-.section-title {
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  color: #2e2f42;
-}
-
-.sub-title {
-  font-weight: 500;
-  font-size: 20px;
-}
-.footer-section {
-  background-color: #2e2f42;
-  padding: 20px;
-
-  text-align: center;
+.first-paragraf {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
