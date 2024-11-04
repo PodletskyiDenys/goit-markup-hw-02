@@ -114,7 +114,7 @@ color: #404bbf;
     color: #2e2f42;
 }
 
-.team-position {
+.team-place {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -127,6 +127,9 @@ color: #404bbf;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+}
+.second-pictures {
+    width: 360;
 }
 
 .project-title {
@@ -163,6 +166,6 @@ color: #404bbf;
 
 .footer-paragraph {
   line-height: 1.5;
-  color: var(--footer-text-color, #F4F4FD);
+  color: #F4F4FD;
   letter-spacing: 0.02em;
 }
